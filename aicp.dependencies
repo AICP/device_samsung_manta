@@ -8,5 +8,20 @@
     "repository":  "AICP/proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
     "branch":      "mm6.0"
+  },
+  {
+    "repository":  "AICP/proprietary_vendor_broadcom",
+    "target_path": "vendor/broadcom",
+    "branch":      "mm6.0"
+  },
+  {
+    "repository":  "TheMuppets/proprietary_vendor_audience",
+    "target_path": "vendor/audience",
+    "branch":      "cm-13.0"
+  },
+  {
+    "repository":  "AICP/proprietary_vendor_widevine",
+    "target_path": "vendor/widevine",
+    "branch":      "mm6.0"
   }
 ]
